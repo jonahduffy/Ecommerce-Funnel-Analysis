@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes the customer journey of an e-commerce platform using SQL and Tableau. By examining user event data, I identified key drop-off points in the sales funnel, analyzed the most profitable traffic sources, and measured the average time to conversion. 
 
-**Link to Interactive Dashboard:** [Insert your Tableau Public Link Here]
+**Link to Interactive Dashboard:** https://public.tableau.com/views/User_data_funnel_analysis2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ## The Data
 The dataset used is a simulated e-commerce event log (`user_events`) containing user interactions from initial page views to final purchases. 
